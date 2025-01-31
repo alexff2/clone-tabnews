@@ -2,8 +2,10 @@ function Home() {
     return (
         <div
             style={{
-                background: 'url(https://static.vecteezy.com/ti/fotos-gratis/p1/35987260-ai-gerado-dia-dos-namorados-dia-vermelho-coracoes-do-amor-com-bling-fundos-gratis-foto.jpg)',
+                background: ' no-repeat center center url(https://static.vecteezy.com/ti/fotos-gratis/p1/35987260-ai-gerado-dia-dos-namorados-dia-vermelho-coracoes-do-amor-com-bling-fundos-gratis-foto.jpg)',
+                backgroundSize: 'cover',
                 position: 'absolute',
+                width: '100%',
                 height: '100%',
                 display: 'flex',
                 alignItems: 'center',
